@@ -79,8 +79,8 @@ def get_reply_markup(username, query):
         ],
 
         [
-           InlineKeyboardButton('Updates Channel 🗣', url='https://t.me/new_ehi'),
-           InlineKeyboardButton('Rate us ★', url='https://t.me/tlgrmcbot?start=leoinlinesearchbot-review'),
+           InlineKeyboardButton('Updates Channel 🗣', url='https://t.me/TeluguDubbedHorrorMovies2'),
+           InlineKeyboardButton('Support ⚡', url='https://t.me/suryaprabhas1245'),
         ],
     ]
     return InlineKeyboardMarkup(buttons)
