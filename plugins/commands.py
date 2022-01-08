@@ -40,7 +40,7 @@ async def start(bot, message):
     else:
         buttons = [
             [
-                InlineKeyboardButton('Updates Channel 🗣', url='https://t.me/new_ehi'),
+                InlineKeyboardButton('Updates Channel 🗣', url='https://t.me/TeluguDubbedHorrorMovies2'),
                 InlineKeyboardButton('Go Inline 🎭', switch_inline_query=''),
             ],
             [
